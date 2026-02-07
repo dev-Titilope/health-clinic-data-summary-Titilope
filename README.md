@@ -36,11 +36,12 @@ Any value falling outside the following bounds is flagged:
 
 ### 2. Data Structure
 The script expects a CSV file named `patient_vitals.csv` with the following headers:
-* `Subject ID`
-* `Temperature reading 1`
-* `Heart rate reading 1`
-* `Diastolic blood pressure reading 1`
-* `Oxygen saturation reading 1`
+* `Patient ID`
+* `Age`
+* `Temperature`
+* `Heart rate`
+* `Systolic bp`
+* `Oxygen saturation`
 
 ---
 
